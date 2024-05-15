@@ -1,0 +1,140 @@
+Hash Table Contents:
+Index 0: Key Constriction    , Initial Hash: 0, Probes: 1
+Index 1: Key 1234567890123456, Initial Hash: 1, Probes: 1
+Index 2: Key Northwest       , Initial Hash: 79, Probes: 52
+Index 3: Key Fabricate       , Initial Hash: 65, Probes: 67
+Index 4: Key Honor           , Initial Hash: 79, Probes: 54
+Index 5: Key Staple          , Initial Hash: 84, Probes: 50
+Index 6: Key Irreversible    , Initial Hash: 6, Probes: 1
+Index 7: Key Under           , Initial Hash: 78, Probes: 58
+Index 8: Key ABCDEFGHIJKLMNOP, Initial Hash: 8, Probes: 1
+Index 9: Key Christopher     , Initial Hash: 9, Probes: 1
+Index 10: Key Jutty           , Initial Hash: 85, Probes: 54
+Index 11: Key Finagle         , Initial Hash: 73, Probes: 67
+Index 12: Key Necromancer     , Initial Hash: 12, Probes: 1
+Index 13: Key Cook            , Initial Hash: 79, Probes: 63
+Index 14: Key Rush            , Initial Hash: 85, Probes: 58
+Index 15: Key Wine            , Initial Hash: 73, Probes: 71
+Index 16: Key Screen          , Initial Hash: 67, Probes: 78
+Index 17: Key Perfect         , Initial Hash: 69, Probes: 77
+Index 18: Key mole            , Initial Hash: 79, Probes: 68
+Index 19: Key parasympathetic , Initial Hash: 6, Probes: 14
+Index 20: Key poison          , Initial Hash: 79, Probes: 70
+Index 21: Key brutalize       , Initial Hash: 82, Probes: 68
+Index 22: Key cap             , Initial Hash: 65, Probes: 86
+Index 23: Key ratiocination   , Initial Hash: 7, Probes: 17
+Index 24: Key cauldron        , Initial Hash: 65, Probes: 88
+Index 25: Key prepossess      , Initial Hash: 82, Probes: 72
+Index 26: Key wince           , Initial Hash: 73, Probes: 82
+Index 27: Key orthodontist    , Initial Hash: 0, Probes: 28
+Index 28: Key live            , Initial Hash: 73, Probes: 84
+Index 29: Key magnetic        , Initial Hash: 65, Probes: 93
+Index 30: Key inlet           , Initial Hash: 78, Probes: 81
+Index 31: Key constrain       , Initial Hash: 79, Probes: 81
+Index 32: Key marsupial       , Initial Hash: 65, Probes: 96
+Index 33: Key rationalize     , Initial Hash: 3, Probes: 31
+Index 34: Key scat            , Initial Hash: 67, Probes: 96
+Index 35: Key toluene         , Initial Hash: 79, Probes: 85
+Index 36: Key wet             , Initial Hash: 69, Probes: 96
+Index 37: Empty
+Index 38: Empty
+Index 39: Empty
+Index 40: Empty
+Index 41: Empty
+Index 42: Empty
+Index 43: Empty
+Index 44: Empty
+Index 45: Empty
+Index 46: Empty
+Index 47: Empty
+Index 48: Empty
+Index 49: Empty
+Index 50: Empty
+Index 51: Empty
+Index 52: Empty
+Index 53: Empty
+Index 54: Empty
+Index 55: Empty
+Index 56: Empty
+Index 57: Empty
+Index 58: Empty
+Index 59: Empty
+Index 60: Empty
+Index 61: Empty
+Index 62: Empty
+Index 63: Empty
+Index 64: Empty
+Index 65: Key Carmona         , Initial Hash: 65, Probes: 1
+Index 66: Key Casper          , Initial Hash: 65, Probes: 2
+Index 67: Key Daniels         , Initial Hash: 65, Probes: 3
+Index 68: Key Paschal         , Initial Hash: 65, Probes: 4
+Index 69: Key Red             , Initial Hash: 69, Probes: 1
+Index 70: Key Salkowski       , Initial Hash: 65, Probes: 6
+Index 71: Key Aguirrie        , Initial Hash: 71, Probes: 1
+Index 72: Key Bhandari        , Initial Hash: 72, Probes: 1
+Index 73: Key Nienberg        , Initial Hash: 73, Probes: 1
+Index 74: Key Qamruddin       , Initial Hash: 65, Probes: 10
+Index 75: Key Acevedo         , Initial Hash: 67, Probes: 9
+Index 76: Key Alcantara       , Initial Hash: 76, Probes: 1
+Index 77: Key Ajose           , Initial Hash: 74, Probes: 4
+Index 78: Key Clark           , Initial Hash: 76, Probes: 3
+Index 79: Key Cook            , Initial Hash: 79, Probes: 1
+Index 80: Key Davies          , Initial Hash: 65, Probes: 16
+Index 81: Key Egbe            , Initial Hash: 71, Probes: 11
+Index 82: Key Arauza          , Initial Hash: 82, Probes: 1
+Index 83: Key Crouch          , Initial Hash: 82, Probes: 2
+Index 84: Key Ellington       , Initial Hash: 76, Probes: 9
+Index 85: Key Zulfiqar        , Initial Hash: 85, Probes: 1
+Index 86: Key Buck            , Initial Hash: 85, Probes: 2
+Index 87: Key Dugger          , Initial Hash: 85, Probes: 3
+Index 88: Key Farral          , Initial Hash: 65, Probes: 24
+Index 89: Key Garza           , Initial Hash: 65, Probes: 25
+Index 90: Key Gurung          , Initial Hash: 85, Probes: 6
+Index 91: Key Joseph          , Initial Hash: 79, Probes: 13
+Index 92: Key Kelly           , Initial Hash: 69, Probes: 24
+Index 93: Key Corey           , Initial Hash: 79, Probes: 15
+Index 94: Key Adam            , Initial Hash: 68, Probes: 27
+Index 95: Key Clayton         , Initial Hash: 76, Probes: 20
+Index 96: Key Dustin          , Initial Hash: 85, Probes: 12
+Index 97: Key Robert          , Initial Hash: 79, Probes: 19
+Index 98: Key Kyle            , Initial Hash: 89, Probes: 10
+Index 99: Key Scott           , Initial Hash: 67, Probes: 33
+Index 100: Key Octavio         , Initial Hash: 67, Probes: 34
+Index 101: Key Judy            , Initial Hash: 85, Probes: 17
+Index 102: Key Derek           , Initial Hash: 69, Probes: 34
+Index 103: Key Jeffrey         , Initial Hash: 69, Probes: 35
+Index 104: Key Jordon          , Initial Hash: 79, Probes: 26
+Index 105: Key Vinnela         , Initial Hash: 73, Probes: 33
+Index 106: Key Lisa            , Initial Hash: 73, Probes: 34
+Index 107: Key Todd            , Initial Hash: 79, Probes: 29
+Index 108: Key Veronica        , Initial Hash: 69, Probes: 40
+Index 109: Key Matthew         , Initial Hash: 65, Probes: 45
+Index 110: Key Michael         , Initial Hash: 73, Probes: 38
+Index 111: Key Akhila          , Initial Hash: 75, Probes: 37
+Index 112: Key John            , Initial Hash: 79, Probes: 34
+Index 113: Key Charles         , Initial Hash: 72, Probes: 42
+Index 114: Key James           , Initial Hash: 65, Probes: 50
+Index 115: Key Chris           , Initial Hash: 72, Probes: 44
+Index 116: Key Wade            , Initial Hash: 65, Probes: 52
+Index 117: Key Fernando        , Initial Hash: 69, Probes: 49
+Index 118: Key Batbold         , Initial Hash: 65, Probes: 54
+Index 119: Key Joel            , Initial Hash: 79, Probes: 41
+Index 120: Key Fabulous        , Initial Hash: 65, Probes: 56
+Index 121: Key Misogamist      , Initial Hash: 73, Probes: 49
+Index 122: Key Maiden          , Initial Hash: 65, Probes: 58
+Index 123: Key Eye             , Initial Hash: 89, Probes: 35
+Index 124: Key Syncopate       , Initial Hash: 89, Probes: 36
+Index 125: Key Yolk            , Initial Hash: 79, Probes: 47
+Index 126: Key Afterwards      , Initial Hash: 70, Probes: 57
+Index 127: Key Person          , Initial Hash: 69, Probes: 59
+Statistics for First 25 Keys:
+Minimum Probes: 1
+Maximum Probes: 16
+Average Probes: 3.8
+Statistics for Last 25 Keys:
+Minimum Probes: 14
+Maximum Probes: 96
+Average Probes: 70
+Theoretical Expected Probes:
+Theoretical Expected Number of Probes (Successful): 2.78571
+Theoretical Expected Number of Probes (Unsuccessful): 10.949
