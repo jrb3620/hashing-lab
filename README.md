@@ -33,11 +33,11 @@ Therefore a better hash function should have the following qualities:
 Here is the function I came up with:
 
 int improvedHashFunction(const string& str) {
-    long hash = 5381;
+long hash = 5381;
     for (char c : str) {
         hash = ((hash << 5) + hash) + c; // Equivalent to hash * 33 + c
-    }
-    return hash % TABLE_SIZE;  // Modulo table size to ensure it fits within the table
+    } 
+return hash % TABLE_SIZE;
 }
 
 The function utilizes a for loop to iterate over each character in the string, then uses the bitwise operation to spread out the high and low bits of the function, then pulls from the string itself to make each key unique, then mods the HA to put the random number back into the table.
