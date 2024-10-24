@@ -8,7 +8,7 @@ There are a few key weaknesses with the hash function provided. I’ll repeat it
 
 HA = abs{ str(2:2) + [ ( str(4:5) + str(7:8) ) / 381 + str(1:1) ] /587 – str(11) }
 
-The hash function is heavily reliant on only a few characters of the hash function. Many words across English have similar letters at key points of a work, therefor only keeping in mind a few characters across a larger word would increase the total amount of collisions. A good hash function should use the entire string to increase randomness.
+The hash function is heavily reliant on only a few characters of the hash function. Many words across English have similar letters at key points of a word, therefor only keeping in mind a few characters across a larger word would increase the total amount of collisions. A good hash function should use the entire string to increase randomness.
 
 The addition and subtraction functions are weighted too heavily. If the character is too close to the ASCII value of “a”, the function will be clustered towards the top of the table, whereas if the ASCII is closer to “z”, it will be clustered towards the bottom. If the keys provided tend to start with letters closer to “a”, they will not be uniformly distributed, but rather cluster towards the top of the table.
 
